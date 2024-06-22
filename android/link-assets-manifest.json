@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/DMSans-Black.ttf",
+      "sha1": "3d699dbcc47446a159276fce06c832c292103ea2"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Bold.ttf",
+      "sha1": "e2465f11006633e4e4ac7652b543adfa6f0c26cd"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-ExtraBold.ttf",
+      "sha1": "0fbdb613f00b0075941c4abd7b77db4373846bd4"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-ExtraLight.ttf",
+      "sha1": "2f604aa72c070e3eb047604e6af5156581697b33"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Light.ttf",
+      "sha1": "cb88a02cd4f884780e8935485739a16ad46f10ad"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Medium.ttf",
+      "sha1": "65cb79753017741ff95b1ecd1689d56e96e2edbd"
+    },
+    {
+      "path": "src/assets/fonts/DMSans-Thin.ttf",
+      "sha1": "5ace7c5ddad95820a7d9de5c04cd0f70783f38bc"
+    },
+    {
+      "path": "src/assets/fonts/PlaywriteNZ-Regular.ttf",
+      "sha1": "ed651a83909f97ecd734fc30af88cffa63d75fe8"
+    }
+  ]
+}
